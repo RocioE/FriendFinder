@@ -1,2 +1,4 @@
 # FriendFinder
-To use our web service, simply go to our homepage and take our state-of-the-art survey. Immediately after submitting the survey, your perfect best friend will pop up. We also have an API you can access to the network's users and their personalized information. For research purposes.
+Looking for a friend? Try Friend Finder to be connect with compatible Friends based on your personality profile! By filling out a 10 question survey, Friend Finder will pair you with an individual within our network. Simply go to Friend Finder's homepage, take our survey to be matched to a compatible friend. Immediately after submitting the survey, you will be matched to a new Friend. 
+Come find a friend at Friend Finder!
+
