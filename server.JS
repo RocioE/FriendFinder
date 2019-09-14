@@ -9,7 +9,7 @@ app.use(express.static(__dirname + "")); //HELP///
 app.use(express.json());
 
 // API and HTML routes
-require("./app/routing/apiRoutes.js")(app);  //IS PATH CORRECT?//
+require("./app/routing/apiRoutes.js")(app);  
 require("./app/routing/htmlRoutes.js")(app);
 
 app.listen(PORT, function() {
