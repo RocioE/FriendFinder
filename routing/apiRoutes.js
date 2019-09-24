@@ -1,10 +1,10 @@
-var people = require("../data/friends");
+var people = require("../ / ");
 
 
 module.exports = function(app, path) {
 
 
-    app.post("/api/friends", function(req, res) {
-        res.json(people);
+    app.post("/ /", function(req, res) {
+        res.json();
     });
   };
