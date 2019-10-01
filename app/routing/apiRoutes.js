@@ -25,9 +25,12 @@ module.exports = function(app) {
         var userScores= req.body.scores
         var miaScores= people[0].scores
         var miaDifference = computeDifference(userScores, miaScores)    
-        var theeGirlScores=people[1].scores
-        var theeGirlDifference = computeDifference(userScores, theeGirlScores)
-    
-        res.json(people[1]);
+        var trinityScores=people[1].scores
+        var trinityDifference = computeDifference(userScores, trinityScores)
+        if (miaDifference < trinityDifference){
+            res.json(people[0])
+        }
+        else {
+            res.json(people[1]);    }
     });
   };

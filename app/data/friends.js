@@ -19,8 +19,8 @@ var friendsArray =
       ]
     },
     {
-      "name":"Thee Girl",
-   "photo":"https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      "name":"Trinity",
+   "photo":"https://img5.goodfon.com/wallpaper/nbig/8/d4/triniti-trinity-matritsa-carrie-anne-moss-kerri-enn-moss-the.jpg",
   "scores":[
     3, 
     2, 
